@@ -1,6 +1,6 @@
 # AuroraSky URL Shortener
 
-AuroraSky URL Shortener is a simple PHP-based URL shortening service that allows users to shorten URLs and retrieve their history using browser tokens. The short URLs are in the format `https://url.aurorasky.me/go/$CODE` and can be used indefinitely.
+AuroraSky URL Shortener is a simple PHP-based URL shortening service that allows users to shorten URLs and retrieve their history using browser tokens. The short URLs are in the format `https://domain.ext/go/$CODE` and can be used indefinitely.
 
 ## Features
 
